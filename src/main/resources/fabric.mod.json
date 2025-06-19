@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "mymod", // Уникальный ID мода (только строчные буквы/цифры)
+  "id": "st1rmd1", // Уникальный ID мода (только строчные буквы/цифры)
   "version": "1.0.0",
-  "name": "slime chunf finder", // Название, которое увидит игрок
-  "description": "Добавляет новые предметы и механизмы!",
+  "name": "slime chunk finder", // Название, которое увидит игрок
+  "description": "adds slime chunk finder",
   "authors": [st1rtr3t04k1],
   "contact": {
     "homepage": "https://github.com/ваш-логин/my-mod",
